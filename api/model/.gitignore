@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+venv/
+*.pyc
+
+# SQLite
+*.db
+
+# Node / React
+node_modules/
+dist/
+.env
+
+# MacOS junk
+.DS_Store
